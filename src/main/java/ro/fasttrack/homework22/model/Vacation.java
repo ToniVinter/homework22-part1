@@ -1,4 +1,4 @@
-package ro.fasttrack.homework22;
+package ro.fasttrack.homework22.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

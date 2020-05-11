@@ -1,6 +1,8 @@
-package ro.fasttrack.homework22;
+package ro.fasttrack.homework22.service;
 
 import org.springframework.stereotype.Service;
+import ro.fasttrack.homework22.VacationNoutFound;
+import ro.fasttrack.homework22.model.Vacation;
 
 import java.util.ArrayList;
 import java.util.Collections;

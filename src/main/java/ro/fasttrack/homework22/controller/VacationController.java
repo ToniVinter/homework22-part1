@@ -1,6 +1,8 @@
-package ro.fasttrack.homework22;
+package ro.fasttrack.homework22.controller;
 
 import org.springframework.web.bind.annotation.*;
+import ro.fasttrack.homework22.model.Vacation;
+import ro.fasttrack.homework22.service.VacationService;
 
 import java.util.List;
 
